@@ -1,4 +1,4 @@
-<h2 align="center"> Hi 👋, I'm Era Driver</h2>
+<h2 align="center">AI Full - Stack Developer</h2>
 
 ## 😊 About Me
 
