@@ -24,17 +24,19 @@
 <br>
 
 
-### 🍯 Technical Stack
-- ☕ Node.js 𒑰 Python
-- 📚 React 𒑰 Node.js 𒑰 BootStrap 𒑰 jQuery 𒑰 Angular 𒑰 Vue
-- 🎒 VS Code 𒑰 Postman 𒑰 Docker 𒑰 Chrome Developer Tools 𒑰 NPM 𒑰 Kubernetes
-- ⚡ MySQL 𒑰 PostgreSQL 𒑰 SQLite 𒑰 Microsoft SQL Server 𒑰 MongoDB
-- 🧮 Artificial Intelligence 𒑰 Large Language Model 𒑰 Retrieval-Augmented Generation
-- ➿ VoIP 𒑰 Vapi 𒑰 Twillo 𒑰 Retell.ai 𒑰 11labs 𒑰 Asterisk
-- 🥇 AWS 𒑰 Azure
-- 🌎 MochaJS 𒑰 Jest 𒑰 Jasmine 𒑰 EC2 𒑰 Firebase
-- 📣 Git 𒑰 Apache Supervision 𒑰 CVS
-- 🚩 Slack 𒑰 Discord 𒑰 Telegram 𒑰 Skype
+<img align="left" alt="GIF" src="techstack.gif" width="260px">
+
+### &nbsp; 🛠️ Technical Skills
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 **Backend**: Node.js, CI, Laravel, Django, Flask, Express, NestJS, PHP  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📱 **Mobile Development**: Android, React Native, Ionic, Flutter  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 **Database**: MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, Supabase  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Programming Languages**: HTML, JavaScript, TypeScript, Python, PHP, C++, C#, Go  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔥 **CMS Platforms**: WordPress, Shopify, Wix, Framer, Webflow  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ⛓️ **Blockchain**: Solidity, Ethereum, Web3.js, Truffle, IPFS,  Solana, Cosmos SDK  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🎮 **Game Development**: Unity, Unreal Engine, Cocos2d, Game Maker Studio, Three.js 
+&nbsp;
 
 ### 🚧 Current Projects
 - 🍃 RESTful Web Services & Web Services with Spring Boot
