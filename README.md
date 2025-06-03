@@ -201,3 +201,13 @@
     </td>
  </tr>
 </table>
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<!-- <div width="100%" align="center">
+  <a align="left" href="https://github.com/CossackDev777/Footprints" title="Footprints"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CossackDev777&repo=Footprints&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/CossackDev777/Archeology" title="Archeology"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=CossackDev777&repo=Archeology&theme=react&border_color=61dafb&border_radius=10"></a>
+</div> 
+<br/><br/><br/><br/><br/><br/> -->
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+</p>
