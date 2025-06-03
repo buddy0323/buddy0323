@@ -12,6 +12,8 @@
 <br>
 &nbsp;&nbsp;<strong>• Experience</strong> in developing AI Agents using <strong>LLM APIs and Frameworks</strong>, <strong>Prompt Engineering</strong>, <strong>Retrieval-Augmented Generation (RAG)</strong>, <strong>Function Calling / Tool Use</strong>, <strong>Plugin / Tool Architecture</strong> and <strong>Agent Memory Systems<strong>.<br>
 <br>
+&nbsp;&nbsp;<strong>• Experience</strong> in developing Automation using <strong>n8n</strong>, <strong>Zapier</strong>, <strong>Make.com</strong>, <strong>HubSpot</strong>, <strong>CRM</strong> and <strong>GHL<strong>.<br>
+<br>
 &nbsp;&nbsp;A certified <strong>AI Agent</strong> systems administrator with a proven record in identifying operation problmes and providing innovative solutions.
 
 </p>
