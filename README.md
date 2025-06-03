@@ -19,14 +19,6 @@
 </p>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 <img align="left" alt="GIF" src="techstack.gif" width="260px">
