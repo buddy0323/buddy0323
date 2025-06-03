@@ -9,7 +9,9 @@
 <img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Don't%20worry%20%20if%20it%20doesn't%20work%20right;7+%2B%20years%20of%20hands-on%20experience;If%20everything%20did,%20you'd%20be%20out%20of%20a%20job&center=true&width=500&height=45" />
 &nbsp;&nbsp;Qualified Software Engineer with <strong>7+</strong> years of <strong>Experience</strong> in <strong>Analyzing</strong>, <strong>Designing</strong>, <strong>Developing</strong> and <strong>Integrating</strong> <strong>Front-End<strong> & <strong>Back-End<strong> based application .<br>
 &nbsp;&nbsp;<strong>• Experience</strong> in developing web applications using <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>NextJS</strong>, <strong>Tailwind CSS</strong>, <strong>NodeJS</strong> and <strong>ExpressJS<strong>.<br>
+<br>
 &nbsp;&nbsp;<strong>• Experience</strong> in developing AI Agents using <strong>LLM APIs and Frameworks</strong>, <strong>Prompt Engineering</strong>, <strong>Retrieval-Augmented Generation (RAG)</strong>, <strong>Function Calling / Tool Use</strong>, <strong>Plugin / Tool Architecture</strong> and <strong>Agent Memory Systems<strong>.<br>
+<br>
 &nbsp;&nbsp;A certified <strong>AI Agent</strong> systems administrator with a proven record in identifying operation problmes and providing innovative solutions.
 
 </p>
