@@ -34,18 +34,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ⚙ **Automation**: n8n, Zapier, Make.com, HubSpot, CRM, GHL
 &nbsp;
 
-### 🚧 Current Projects
-- 🍃 RESTful Web Services & Web Services with Spring Boot
-- 🔗 Third Party API Integration & OAuth
-- 🎨 Angular 𒑰 Angular Material 𒑰 React 𒑰 Next.js
-- 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
-
-### 🌱 What I'm boosting
-- 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
-- 📔 Swagger API Documentation
-- 🎩 DevOps 𒑰 CI/CD
-
-
 <!-- <h3 align="left">🛎 Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ericvale0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ericvale0128" height="30" width="40" /></a>
