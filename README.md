@@ -10,9 +10,9 @@
 <p>
   <img align="right" width="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611382bf04e5e70d777ebc7c2e988dad020877c25bf&rid=giphy.gif&ct=g" />
 <img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Don't%20worry%20%20if%20it%20doesn't%20work%20right;10+%2B%20years%20of%20hands-on%20experience;If%20everything%20did,%20you'd%20be%20out%20of%20a%20job&center=true&width=500&height=45" />
-&nbsp;&nbsp;Qualified Software Engineer with <strong>10+</strong> years of <strong>Experience</strong> in <strong>Analyzing</strong>, <strong>Designing</strong>, <strong>Developing</strong> and <strong>Integrating</strong> <strong>Front-End<strong> & <strong>Back-End<strong> based application .<br>
+&nbsp;&nbsp;Qualified Software Engineer with <strong>7+</strong> years of <strong>Experience</strong> in <strong>Analyzing</strong>, <strong>Designing</strong>, <strong>Developing</strong> and <strong>Integrating</strong> <strong>Front-End<strong> & <strong>Back-End<strong> based application .<br>
 &nbsp;&nbsp;<strong>Experience</strong> in developing web applications using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>NextJS</strong>, <strong>NodeJS</strong> and <strong>ExpressJS<strong>.<br>
-&nbsp;&nbsp;A certified <strong>Linux</strong> systems administrator with a proven record in identifying operation problmes and providing innovative solutions.
+&nbsp;&nbsp;A certified <strong>AI Agent</strong> systems administrator with a proven record in identifying operation problmes and providing innovative solutions.
 
 </p>
 
