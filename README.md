@@ -1,7 +1,7 @@
 <!-- # Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">
 <a target="blank" href="https://profile-counter.glitch.me/ericvale0128/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/ericvale0128/count.svg" /></a>
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+AI+Full-Stack+Developer;Senior+Software+Engineer)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e81224&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+AI+Full-Stack+Developer;Senior+Software+Engineer)]()
 <hr/>
 
 <p>
