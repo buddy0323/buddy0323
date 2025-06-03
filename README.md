@@ -17,9 +17,6 @@
 &nbsp;&nbsp;A certified <strong>AI Agent</strong> systems administrator with a proven record in identifying operation problmes and providing innovative solutions.
 
 </p>
-<br>
-<br>
-
 
 <img align="left" alt="GIF" src="techstack.gif" width="260px">
 
