@@ -25,9 +25,11 @@
 
 ### 🍯 Technical Stack
 - ☕ Node.js 𒑰 Python
-- 📚 React 𒑰 Node.js 𒑰 BootStrap 𒑰 jQuery 𒑰 Angular
+- 📚 React 𒑰 Node.js 𒑰 BootStrap 𒑰 jQuery 𒑰 Angular 𒑰 Vue
 - 🎒 VS Code 𒑰 Postman 𒑰 Docker 𒑰 Chrome Developer Tools 𒑰 NPM 𒑰 Kubernetes
 - ⚡ MySQL 𒑰 PostgreSQL 𒑰 SQLite 𒑰 Microsoft SQL Server 𒑰 MongoDB
+- 🧮 Artificial Intelligence 𒑰 Large Language Model 𒑰 Retrieval-Augmented Generation
+- ➿ VoIP 𒑰 Vapi 𒑰 Twillo 𒑰 Retell.ai 𒑰 11labs 𒑰 Asterisk
 - 🥇 AWS 𒑰 Azure
 - 🌎 MochaJS 𒑰 Jest 𒑰 Jasmine 𒑰 EC2 𒑰 Firebase
 - 📣 Git 𒑰 Apache Supervision 𒑰 CVS
