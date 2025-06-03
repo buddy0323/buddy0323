@@ -71,7 +71,7 @@
       <br>Selenium
     </td>
     <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/langchain-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow" />
