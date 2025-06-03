@@ -1,7 +1,9 @@
 <!-- # Thanks for visiting my Git! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px">
 <a target="blank" href="https://profile-counter.glitch.me/ericvale0128/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/ericvale0128/count.svg" /></a>
 -->
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Software+Engineer)]()
+![Full Stack Developer](https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&vCenter=true&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ)
+<hr/>
 
 ## 🙋‍♂️ I'm Full Stack Developer
 
