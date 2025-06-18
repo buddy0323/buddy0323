@@ -6,7 +6,7 @@
 
 📫 **How to reach me:** <br/><br/>
 [![WhatsApp](icons/WhatsApp.svg.png)](https://wa.me/17575375730) &nbsp;
-[![Gmail](icons/protonmail.png)](mailto:selrahcjt@proton.me) <br/><br/>
+[![Gmail](icons/Gmail_icon_(2020).svg.png)](mailto:redspider0222@gmail.com) <br/><br/>
 
 <p>
   <img align="right" width="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611382bf04e5e70d777ebc7c2e988dad020877c25bf&rid=giphy.gif&ct=g" />
