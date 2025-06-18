@@ -5,7 +5,7 @@
 <hr/>
 
 📫 **How to reach me:** <br/><br/>
-[![WhatsApp](icons/WhatsApp.svg.png)](https://wa.me/639765378544) &nbsp;
+[![WhatsApp](icons/WhatsApp.svg.png)](https://wa.me/17575375730 &nbsp;
 [![Gmail](icons/protonmail.png)](mailto:selrahcjt@proton.me) <br/><br/>
 
 <p>
