@@ -4,6 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+AI+Full-Stack+Developer;Senior+Software+Engineer)]()
 <hr/>
 
+📫 **How to reach me:** <br/><br/>
+[![WhatsApp](icons/WhatsApp.svg.png)](https://wa.me/639765378544) &nbsp;
+[![Gmail](icons/protonmail.png)](mailto:selrahcjt@proton.me) <br/><br/>
+
 <p>
   <img align="right" width="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611382bf04e5e70d777ebc7c2e988dad020877c25bf&rid=giphy.gif&ct=g" />
 <img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Don't%20worry%20%20if%20it%20doesn't%20work%20right;7+%2B%20years%20of%20hands-on%20experience;If%20everything%20did,%20you'd%20be%20out%20of%20a%20job&center=true&width=500&height=45" />
