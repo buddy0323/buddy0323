@@ -28,7 +28,6 @@
 <br>
 
 
-<img align="left" alt="GIF" src="techstack.gif" width="260px">
 ### &nbsp; 🛠️ Technical Skills
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
