@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=FranklinGothicHeavy&color=%e812240&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+AI+Full-Stack+Developer;Senior+Software+Engineer)]()
 <hr/>
 
-ðŸ“« **How to reach me:** <br/><br/>
+📫 **How to reach me:** <br/><br/>
 [![Gmail](icons/Gmail_icon_(2020).svg.png)](mailto:redspider0222@gmail.com) &nbsp;
 <br/><br/>
 
@@ -30,29 +30,29 @@
 
 <img align="left" alt="GIF" src="techstack.gif" width="260px">
 
-### &nbsp; ðŸ› ï¸ Technical Skills
+### &nbsp; 🛠️ Technical Skills
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ðŸŒ± **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ðŸ”­ **Backend**: Node.js, CI, Laravel, Fastapi, Django, Flask, Express, NestJS, PHP  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ðŸ¤– **AI & Voice Automation**: Twilio, Retell AI, API Integration, Artificial Intelligence  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ðŸ“± **Mobile Development**: Android, React Native, Ionic, Flutter  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ðŸ“‚ **Database**: MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, Supabase  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ðŸ’» **Programming Languages**: HTML, JavaScript, TypeScript, Python, PHP, C++, C#, Go  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ðŸ”¥ **CMS Platforms**: WordPress, Shopify, Wix, Framer, Webflow  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - â›“ï¸ **Blockchain**: Solidity, Ethereum, Web3.js, Truffle, IPFS,  Solana, Cosmos SDK  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ðŸŽ® **Game Development**: Unity, Unreal Engine, Cocos2d, Game Maker Studio, Three.js 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 **Backend**: Node.js, CI, Laravel, Fastapi, Django, Flask, Express, NestJS, PHP  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📱 **AI & Voice Automation**: Twilio, Retell AI, API Integration, Artificial Intelligence  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📱 **Mobile Development**: Android, React Native, Ionic, Flutter  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 **Database**: MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, Supabase  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Programming Languages**: HTML, JavaScript, TypeScript, Python, PHP, C++, C#, Go  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔥 **CMS Platforms**: WordPress, Shopify, Wix, Framer, Webflow  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ⛓️ **Blockchain**: Solidity, Ethereum, Web3.js, Truffle, IPFS,  Solana, Cosmos SDK  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🎮 **Game Development**: Unity, Unreal Engine, Cocos2d, Game Maker Studio, Three.js 
 &nbsp;
 
-### ðŸš§ Current Projects
-- ðŸƒ RESTful Web Services & Web Services with Spring Boot
-- ðŸ”— Third Party API Integration & OAuth
-- ðŸŽ¨ Angular ð’‘° Angular Material ð’‘° React ð’‘° Next.js
-- ðŸ’ª Node ð’‘° Django ð’‘° Serverless ð’‘° PostgreSQL
+### 🚧 Current Projects
+- 🍃 RESTful Web Services & Web Services with Spring Boot
+- 🔗 Third Party API Integration & OAuth
+- 🎨 Angular ð’‘° Angular Material ð’‘° React ð’‘° Next.js
+- 💪 Node ð’‘° Django ð’‘° Serverless ð’‘° PostgreSQL
 
-### ðŸŒ± What I'm boosting
-- ðŸ›  AWS Cloud Serivces ð’‘° Serverless ð’‘° Terraform
-- ðŸ“” Swagger API Documentation
-- ðŸŽ© DevOps ð’‘° CI/CD
+### 🌱 What I'm boosting
+- 🛠  AWS Cloud Serivces ð’‘° Serverless ð’‘° Terraform
+- 📔 Swagger API Documentation
+- 🎩 DevOps ð’‘° CI/CD
 
 
 <!-- <h3 align="left">ðŸ›Ž Connect with me:</h3>
@@ -64,7 +64,7 @@
 <a href="https://codesandbox.com/ericvale0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ericvale0128" height="30" width="40" /></a>
 </p> -->
 
-<h3 align="left">ðŸ· Languages and Tools:</h3>
+<h3 align="left">🏷 Languages and Tools:</h3>
 <table align="center">
   <tr>
     <td align="center" width="116">
@@ -230,6 +230,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+%E2%AD%90++on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em>Let's connect and forge the future together! ðŸš€ <em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em>Let's connect and forge the future together! 🚀 <em>
 
 </div>
