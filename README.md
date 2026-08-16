@@ -43,13 +43,13 @@
 ### 🚧 Current Projects
 - 🍃 RESTful Web Services & Web Services with Spring Boot
 - 🔗 Third Party API Integration & OAuth
-- 🎨 Angular ð’‘° Angular Material ð’‘° React ð’‘° Next.js
-- 💪 Node ð’‘° Django ð’‘° Serverless ð’‘° PostgreSQL
+- 🎨 Angular 𒑰 Angular Material 𒑰 React 𒑰 Next.js
+- 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
 
 ### 🌱 What I'm boosting
-- 🛠  AWS Cloud Serivces ð’‘° Serverless ð’‘° Terraform
+- 🛠  AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
 - 📔 Swagger API Documentation
-- 🎩 DevOps ð’‘° CI/CD
+- 🎩 DevOps 𒑰 CI/CD
 
 
 <!-- <h3 align="left">ðŸ›Ž Connect with me:</h3>
