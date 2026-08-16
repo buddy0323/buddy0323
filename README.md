@@ -6,7 +6,7 @@
 
 📫 **How to reach me:** <br/><br/>
 [![Gmail](icons/Gmail_icon_(2020).svg.png)](mailto:redspider0222@gmail.com) &nbsp;
-[![WhatsApp](icons/WhatsApps.svg.png)](wa.me/17572343322) &nbsp;
+[![WhatsApp](icons/WhatsApp.svg.png)](wa.me/17572343322) &nbsp;
 <br/><br/>
 
 <p>
